@@ -1,7 +1,7 @@
 //Typing effect on first page
 var data = [
     { text: "FRONT END DEVELOPER.", class: "title2" },
-    { text: "I am a front-end developer with a strong passion of creating quality interactive websites that are easy to use and come with a great user experience", class: "info" },
+    { text: "I am a front-end developer with a strong passion of creating quality interactive websites that are easy to use and come with a great user experience.", class: "info" },
     { text: "And here is yet another class.", class: "yet-another-class" }
   ];
   
