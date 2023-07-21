@@ -68,6 +68,7 @@ body{
     margin: 10px 0px 5px 5px;
     text-decoration: none;
     color: aliceblue;
+    transition: transform .5s;
 }
 
 
@@ -76,7 +77,10 @@ body{
     color:rgb(57, 57, 241);
     z-index: -1;
     transition: .5s;
+    
+    
 }
+
 
 .img{
     position: absolute;
