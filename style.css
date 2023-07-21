@@ -205,5 +205,28 @@ body{
     margin-top: 70px;
     border-style: solid;
     border-color: rgba(0, 255, 255, 0.637);
-    background-color: rgba(57, 57, 241, 0.959);
+    /* background-color: rgba(57, 57, 241, 0.959); */
+    background-color: rgba(0, 0, 0, 0.938);
+}
+.reactjs img{
+    position: absolute;
+    top: 330px;
+    left: 40px;
+    width: 400px;
+    height: 350px;
+}
+
+.reactjs h1{
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+#react-description{
+    text-align: justify;
+    display: inline-block;
+    margin-left: 30px;
+    font-family:sans-serif;
+    width:450px;
+    color: aliceblue;
+    line-height: 1.5;
 }
