@@ -5,12 +5,13 @@ html {
 body{
     margin: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.849);
+    /* background-color: rgba(0, 0, 0, 0.849); */
+    background-color: #E2D1F9;
    
 }
 .bluediv{
     position: absolute;
-    background-color: rgba(57, 57, 241, 0.959);
+    background-color: #4831D4;
     width: 65%;
     height: 640px;
   
@@ -19,15 +20,15 @@ body{
     position: absolute;
     margin-left: 40px;
     font-size: 2.8rem;
-    color: rgb(9, 241, 113);
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    color: #CCF381;
+    
     
 }
 
 .greendiv{
     position: absolute;
     right: 0px;
-    background-color: rgba(25, 207, 86, 0.938);
+    background-color:  #CCF381;
 
     width: 35%;
     height: 640px;  
@@ -41,7 +42,7 @@ body{
     left: 100px;
     width: 300px;
     height: 100px;
-    color: rgb(9, 241, 113);
+    color: #CCF381;
     font-size: 1.5rem;
     
     
@@ -114,9 +115,9 @@ body{
     position: absolute;
     width: 700px;
     height: 700px;
-    background-color: rgba(57, 57, 241, 0.959);
-    border-style: solid;
-    border-color: aqua;
+    background-color: #4831D4;
+    /* border-style: solid;
+    border-color: aqua; */
     /* background-color: rgba(25, 207, 86, 0.938); */
     
     
@@ -127,9 +128,9 @@ body{
     right: 0px;
     width: 620px;
     height: 700px;
-    border-style: solid;
-    border-color: rgba(0, 255, 255, 0.637);
-    background-color: rgba(57, 57, 241, 0.959);
+    /* border-style: solid;
+    border-color: rgba(0, 255, 255, 0.637); */
+    background-color: #4831D4;
     
 
 }
@@ -204,9 +205,9 @@ body{
     width: 700px;
     height: 700px;
     margin-top: 70px;
-    background-color: rgba(57, 57, 241, 0.959);
-    border-style: solid;
-    border-color: aqua;
+    background-color: #4831D4;
+    /* border-style: solid;
+    border-color: aqua; */
 }
 
 .javaScript img {
