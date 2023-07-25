@@ -10,8 +10,28 @@
     right: 25px;
     font-size: 1.5rem;
 }
-.img{
+.greendiv{
+    position: absolute ;
+    top: 0;
+}
+.img img{
     display: none;
+    position: relative;
+    right: 620px;
+    top: 50px;
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    animation: none;
+}
+
+.img{
+    position: relative;
+    top: 250px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    background: url(/pics/pic-2.jpg) center center /cover ;
 }
 
 .contact{
@@ -101,7 +121,13 @@ display: none;
 }
 
 .info{
-    display: none;
+    /* display: none; */
+    position: absolute;
+    top: 400px;
+    left: 20px;
+    width: 200px;
+    word-wrap: break-word;
+    font-size: 1rem;
 }
 
 .navbar{
