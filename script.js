@@ -33,3 +33,14 @@ var data = [
     typeWriter(0);
   };
   
+
+
+
+  //hamburger
+  // script.js
+const hamburgerBtn = document.querySelector('.hamburger-btn');
+const menu = document.querySelector('.menu');
+
+hamburgerBtn.addEventListener('click', () => {
+  menu.classList.toggle('show');
+});
