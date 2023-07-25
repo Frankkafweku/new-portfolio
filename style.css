@@ -76,7 +76,7 @@ body{
 
 .navbar a:hover {
     color:rgb(57, 57, 241);
-    transform: scale(3);
+    transform: scale(1);
     transition: transform 0.5s;
     
     
